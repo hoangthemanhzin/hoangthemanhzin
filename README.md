@@ -1,16 +1,14 @@
 ### Hi there 👋
 Hi I'm Mạnh 
-<!--
-**hoangthemanhzin/hoangthemanhzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Smart Embedded and IoT at Hanoi University of Science and Technology
+- 🐺 I'm a member of Google Developer Student Clubs
+- 📫 How to reach me:
+  Github: https://github.com/hoangthemanhzin
+  Facebook: https://www.facebook.com/manh.hoangthe.184
+  Instagram: https://www.instagram.com/hoangthemanh.2002/
+-✨My orientation :
+  ☀ Web developer, Cloud, IoT
+  ☀ Low-Power Wide Area Network 
+- ⚡ Fun fact: 
+  You can call me by Zin, I like playing soccer and reading books about economy.
+  
