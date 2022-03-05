@@ -6,7 +6,7 @@ Hi I'm Mạnh
   - Github: https://github.com/hoangthemanhzin
   - Facebook: https://www.facebook.com/manh.hoangthe.184
   - Instagram: https://www.instagram.com/hoangthemanh.2002/
--✨My orientation :
+- ✨My orientation :
   - ☀ Web developer, Cloud, IoT
   - ☀ Low-Power Wide Area Network 
 - ⚡ Fun fact: 
